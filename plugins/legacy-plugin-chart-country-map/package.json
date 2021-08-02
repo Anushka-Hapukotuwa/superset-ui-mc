@@ -1,6 +1,6 @@
 {
   "name": "@mcdevsl/legacy-plugin-chart-country-map",
-  "version": "0.17.69",
+  "version": "0.17.70",
   "description": "Superset Legacy Chart - Country Map",
   "sideEffects": [
     "*.css"
